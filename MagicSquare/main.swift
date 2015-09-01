@@ -8,5 +8,5 @@
 
 import Foundation
 
-println("Hello, World!")
-
+let magicSquare = MagicSquare(dimension: 5)
+println(magicSquare)
