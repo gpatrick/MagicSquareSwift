@@ -8,7 +8,7 @@
 
 import Foundation
 
-class MagicSquare: Printable{
+class MagicSquare: CustomStringConvertible{
     var matrix: [[Int]]
     var nextNumber: Int
     var n: Int

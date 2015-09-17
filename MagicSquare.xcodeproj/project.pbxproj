@@ -91,6 +91,8 @@
 		3780A8621B951FB1003A97C8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = Thinkful;
 				TargetAttributes = {
@@ -240,6 +242,7 @@
 				3780A8731B951FB1003A97C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

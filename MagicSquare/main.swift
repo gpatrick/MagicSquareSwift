@@ -9,4 +9,4 @@
 import Foundation
 
 let magicSquare = MagicSquare(dimension: 5)
-println(magicSquare)
+print(magicSquare)
