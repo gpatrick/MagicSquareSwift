@@ -8,5 +8,5 @@
 
 import Foundation
 
-let magicSquare = MagicSquare(dimension: 3)
+let magicSquare = MagicSquare(dimension: 5)
 print(magicSquare)
